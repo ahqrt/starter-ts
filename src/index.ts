@@ -1,7 +1,3 @@
-import { STATIC } from './constants'
+import { command } from './anyFile2mp4'
 
-function init() {
-  console.log(`${STATIC}`)
-}
-
-init()
+command()
