@@ -65,6 +65,7 @@
   },
   "dependencies": {
     "esbuild": "^0.14.54",
-    "fluent-ffmpeg": "^2.1.2"
+    "fluent-ffmpeg": "^2.1.2",
+    "loudness": "^0.4.1"
   }
 }
